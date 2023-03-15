@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    android:background="@drawable/Background"
+    android:background="@drawable/gb"
     tools:context="MainActivity">
 
 
@@ -29,10 +29,10 @@
 
 
             <TextView
-                android:id="@id/loginButton"
+                android:id="@+id/loginText"
                 android:layout_width="match_parent"
                 android:layout_height="245dp"
-                android:background="@drawable/DFB"
+                android:background="@drawable/fb"
                 android:text="Login"
                 android:textAlignment="center"
                 android:textColor="@color/lavender"
